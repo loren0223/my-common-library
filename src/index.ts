@@ -20,4 +20,8 @@ export * from './events/projects/ticketing/order-created-event';
 export * from './events/projects/ticketing/order-cancelled-event';
 export * from './events/projects/ticketing/expiration-completed-event';
 export * from './events/projects/ticketing/payment-created-event';
+
 export * from './events/types/order-status';
+export * from './events/types/payment-type';
+export * from './events/types/product-category';
+export * from './events/types/user-role';
